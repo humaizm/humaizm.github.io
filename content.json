@@ -1,0 +1,30 @@
+{
+  "name": "Humaiz Malik",
+  "initials": "hm.",
+  "siteUrl": "https://humaizm.github.io",
+  "description": "The personal website of Humaiz Malik. Projects, ideas, and a little about me.",
+  "intro": "My work, ideas, and what comes next.",
+  "about": [
+    "Welcome to my personal corner of the web. This is a place for the things I build, the subjects I explore, and the work I want to share.",
+    "My current project is EMREE Study, a browser-based question bank for exam practice. As I add new projects and experiences, you’ll find them here."
+  ],
+  "facts": [],
+  "projects": [
+    {
+      "name": "EMREE Study",
+      "category": "Study tool",
+      "description": "An interactive question bank with 120 original practice questions across seven subjects. Includes instant marking, a timed exam mode, search, flags, and saved progress.",
+      "url": "https://humaizm.github.io/emree-study/",
+      "source": "https://github.com/humaizm/emree-study",
+      "tags": ["120 questions", "7 subjects", "Saved progress"]
+    }
+  ],
+  "notes": [],
+  "links": [
+    {
+      "label": "GitHub",
+      "detail": "@humaizm",
+      "url": "https://github.com/humaizm"
+    }
+  ]
+}

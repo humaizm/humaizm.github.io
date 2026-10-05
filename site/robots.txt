@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://humaizm.github.io/sitemap.xml

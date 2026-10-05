@@ -1,0 +1,11 @@
+node_modules/
+.wrangler/
+.playwright-cli/
+.env*
+!.env.example
+artifacts/
+DOMAIN-SETUP.md
+XSERVER-REPLY.md
+xserver-*.txt
+site/assets/*.png
+site/.DS_Store

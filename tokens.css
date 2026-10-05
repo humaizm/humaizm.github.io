@@ -1,0 +1,32 @@
+/* Hallmark · macrostructure: Index-First · tone: editorial · anchor hue: 80 */
+:root {
+  --color-paper: oklch(97% 0.012 80);
+  --color-paper-2: oklch(94% 0.015 80);
+  --color-ink: oklch(23% 0.018 80);
+  --color-muted: oklch(44% 0.017 80);
+  --color-rule: oklch(78% 0.019 80);
+  --color-accent: oklch(39% 0.085 155);
+  --color-focus: oklch(43% 0.11 155);
+  --font-display: "Newsreader", "Newsreader Fallback", Georgia, serif;
+  --font-body: "IBM Plex Sans", "Plex Fallback", Arial, sans-serif;
+  --space-2xs: 0.25rem;
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2.5rem;
+  --space-2xl: 4rem;
+  --space-3xl: 6rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-md: 1.25rem;
+  --text-lg: 1.5625rem;
+  --text-display: clamp(2rem, 2.4vw + 1rem, 3rem);
+  --page-gutter: clamp(1.25rem, 5vw, 4rem);
+  --page-width: 72rem;
+  --rule-width: 1px;
+  --radius-sm: 0.25rem;
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --dur-micro: 120ms;
+  --z-raised: 10;
+}
